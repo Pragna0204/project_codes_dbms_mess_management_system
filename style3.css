@@ -1,0 +1,38 @@
+.body{
+    background-color: #b9dffff1;
+}
+.container{
+    margin: 200px 300px auto 300px;
+    padding:50px;
+    border:1px solid black;
+    border-radius: 5px;
+    background-color:#ffefd645 ;
+    box-shadow: 2px 2px 10px 10px #b9dfff55 ;
+    text-align: center;
+}
+.tab{
+    border:2px solid #2B3A55;
+    padding:10px;
+    border-radius: 10px;
+    background-color: #b9dfff65;
+    box-shadow: 2px 2px 10px 10px  #ffefd6bc;
+    
+}
+table, th, td {
+    border: 5px solid #ffefd6a9;
+    border-collapse: collapse;
+    border-radius: 10px;
+    padding: 5px;
+} 
+thead th {
+    width: 55%;
+  }
+.heading{
+    font-family: 'Sacramento', cursive;
+    color:#2B3A55;
+    font-size: xx-large;
+    font-weight: 600;
+    
+}
+
+/*color-heading:#b9dfff*/

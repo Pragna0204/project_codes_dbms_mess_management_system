@@ -1,0 +1,20 @@
+.form-box{
+    padding: 30px;
+    border: 1px solid rgb(239, 236, 236);
+    border-radius: 6px;
+    box-shadow: 1px 1px 7px 7px #55457ba5;
+    margin:70px auto 70px;
+    width:60%;
+    background-color:#a79eca96;
+}
+.outter{
+    padding: 7px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin:100px auto 100px;
+    width:50%;
+    background-color: #7f455965;
+    box-shadow: 2px 2px 15px 15px rgba(0, 0, 0, 0.127);
+
+
+}
